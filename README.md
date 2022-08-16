@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm sara</h1>
+
+<h1 align="center" >Hi 👋, I'm sara</h1>
 <h3 align="center">A passionate Appliction developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/474x/39/e6/d4/39e6d4c4f0572317e8a6c123e5d21015.jpg")
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47npj5xbx1zkqzk9en5vaj7uplsoe2r9wp1t92zy8r&rid=giphy.gif&ct=g")
 
 - 🔭 I’m currently working on [Readres](https://github.com/sara4se/Readers)
 
-- 🌱 I’m currently learning **Android Dev using Kotlin**
+- 🌱 I’m currently learning **Android using Kotlin**
 
 - 🤝 I’m looking for help with [Readres](https://github.com/sara4se/Readers)
 
