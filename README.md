@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Readres](https://github.com/sara4se/Readers)
 
-- 🌱 I’m currently learning **Android using Kotlin**
+- 🌱 I’m currently learning **Android using Kotlin** + **IOS apps using Swift**
 
 - 🤝 I’m looking for help with [Readres](https://github.com/sara4se/Readers)
 
