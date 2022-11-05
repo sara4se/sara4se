@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1aUVP79wtm_3yINA1QZKXQVeYXE-SLLBa/view?usp=sharing](https://drive.google.com/file/d/1aUVP79wtm_3yINA1QZKXQVeYXE-SLLBa/view?usp=sharing)
 
-- ⚡ Fun fact **it is easy to learn how programming**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sara-a-mohammed101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sara-a-mohammed101" height="30" width="40" /></a>
