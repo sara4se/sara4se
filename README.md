@@ -4,6 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47npj5xbx1zkqzk9en5vaj7uplsoe2r9wp1t92zy8r&rid=giphy.gif&ct=g")
 
  
+      
+
 - 👩🏻‍💻 I’m currently trainee at Apple Academy 
 
 - 🌱 I’m currently learning **Android using Kotlin** + **IOS apps using Swift**
@@ -16,7 +18,7 @@
 
 - 📫 How to reach me **sara.alhumidi4@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aUVP79wtm_3yINA1QZKXQVeYXE-SLLBa/view?usp=sharing](https://drive.google.com/file/d/1aUVP79wtm_3yINA1QZKXQVeYXE-SLLBa/view?usp=sharing)
+- 📄 Know about my experiences [https://linkedin.com/in/sara-a-mohammed101](https://linkedin.com/in/sara-a-mohammed101)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
