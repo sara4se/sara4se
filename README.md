@@ -1,10 +1,14 @@
 
+<p><p/>
+<b></b>
+<b></b>
+
+ <b></b>
+<b></b>
+      
 <h1 align="center" >Hi 👋, I'm sara</h1>
 <h3 align="center">A passionate Appliction developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47npj5xbx1zkqzk9en5vaj7uplsoe2r9wp1t92zy8r&rid=giphy.gif&ct=g")
-
- 
-      
+<img align="right" alt="Coding" width="600" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47npj5xbx1zkqzk9en5vaj7uplsoe2r9wp1t92zy8r&rid=giphy.gif&ct=g")
 
 - 👩🏻‍💻 I’m currently trainee at Apple Academy 
 
