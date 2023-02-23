@@ -21,9 +21,7 @@
 - 💬 Ask me about **Android: Kotlin+java** & **IOS apps using Swift** 
 
 - 📫 reach me @ **sara.alhumidi4@gmail.com**
-
-- 📄 Know about my experiences [https://linkedin.com/in/sara-a-mohammed101](https://linkedin.com/in/sara-a-mohammed101)
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sara-a-mohammed101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sara-a-mohammed101" height="30" width="40" /></a>
