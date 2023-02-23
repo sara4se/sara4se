@@ -6,21 +6,21 @@
  <b></b>
 <b></b>
       
-<h1 align="center" >Hi 👋, I'm sara</h1>
+<h1 align="center" >Sara Repository</h1>
 <h3 align="center">A passionate Appliction developer</h3>
 <img align="right" alt="Coding" width="500" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47npj5xbx1zkqzk9en5vaj7uplsoe2r9wp1t92zy8r&rid=giphy.gif&ct=g")
 
-- 👩🏻‍💻 I’m currently trainee at Apple Academy 
+- 👩🏻‍💻 trainee at Apple Academy 
 
-- 🌱 I’m currently learning **Android using Kotlin** + **IOS apps using Swift**
+- 🌱 I’m currently learning **IOS apps using Swift** & **Android using Kotlin** 
 
-- 🤝 I’m looking for help with [Readres](https://github.com/sara4se/Readers)
+- 🤝 looking for help with [Readres](https://github.com/sara4se/Readers)
 
-- 💻 All of my projects are available at [https://github.com/sara4se](https://github.com/sara4se)
+- 💻 All of my projects are available here [https://github.com/sara4se](https://github.com/sara4se)
 
-- 💬 Ask me about **Android: Kotlin+java**
+- 💬 Ask me about **Android: Kotlin+java** & **IOS apps using Swift** 
 
-- 📫 How to reach me **sara.alhumidi4@gmail.com**
+- 📫 reach me @ **sara.alhumidi4@gmail.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/sara-a-mohammed101](https://linkedin.com/in/sara-a-mohammed101)
 
