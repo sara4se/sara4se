@@ -18,7 +18,7 @@
 
 - 💻 All of my projects are available here [https://github.com/sara4se](https://github.com/sara4se)
 
-- 💬 Ask me about **Android: Kotlin+java** & **IOS apps using Swift** 
+- 💬 Ask me about **Swift & swiftUI ** + **Kotlin & java**
 
 - 📫 reach me @ **sara.alhumidi4@gmail.com**
  
