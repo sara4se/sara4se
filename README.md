@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **IOS apps using Swift** & **Android using Kotlin** 
 
-- 🤝 looking for help with [Readres](https://github.com/sara4se/Readers)
+- 🤝 looking for help with [LostIt](https://github.com/sara4se/LostIt)
 
 - 💻 All of my projects are available here [https://github.com/sara4se](https://github.com/sara4se)
 
