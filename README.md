@@ -8,7 +8,7 @@
       
 <h1 align="center" >Sara Repository</h1>
 <h3 align="center">A passionate Appliction developer</h3>
-<img align="right" alt="Coding" width="500" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47npj5xbx1zkqzk9en5vaj7uplsoe2r9wp1t92zy8r&rid=giphy.gif&ct=g")
+<img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47npj5xbx1zkqzk9en5vaj7uplsoe2r9wp1t92zy8r&rid=giphy.gif&ct=g")
 
 - 👩🏻‍💻 trainee at Apple Academy 
 
