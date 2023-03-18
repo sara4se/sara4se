@@ -10,12 +10,9 @@
 <h3 align="center">A passionate Appliction developer</h3>
 <img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47npj5xbx1zkqzk9en5vaj7uplsoe2r9wp1t92zy8r&rid=giphy.gif&ct=g")
 
-- 👩🏻‍💻 I am trainee at Apple Academy, i love developing iOS apps because it allows me to combine my passion for technology and creativity. 
-I enjoy the challenge of taking an idea and turning it into a fully functioning app that people can use and enjoy. 
-In my spare time, I enjoy reading up on the latest iOS development trends
-and experimenting with new tools and frameworks. 
-
-One of the most rewarding parts of my job is seeing people use and enjoy the apps that I've created. Knowing that my work is making people's lives easier or more enjoyable is what motivates me to continue to develop innovative iOS apps. 
+- 👩🏻‍💻 I am trainee at Apple Academy, 
+   In my spare time, I enjoy reading up on the latest iOS development trends
+   and experimenting with new tools and frameworks.  
 
 - 🌱 I’m currently learning **IOS apps using Swift** & **Android using Kotlin** 
 
